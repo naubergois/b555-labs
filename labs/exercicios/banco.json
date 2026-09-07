@@ -1,7 +1,7 @@
 {
   "total": 104,
-  "repo": "https://github.com/naubergois/redesneurais",
-  "clone": "https://github.com/naubergois/redesneurais.git",
+  "repo": "https://github.com/naubergois/b555-labs",
+  "clone": "https://github.com/naubergois/b555-labs.git",
   "exercicios": [
     {
       "id": "EX-001",
@@ -1253,5 +1253,6 @@
     }
   ],
   "total_colabs": 104,
-  "colabs_dir": "labs/colabs"
+  "colabs_dir": "labs/colabs",
+  "modo": "autocontido_sem_clone"
 }

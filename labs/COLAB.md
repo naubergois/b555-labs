@@ -1,9 +1,11 @@
-# Labs Colab — B555
-
-**104 Colabs** autocontidos (código completo + explicado, **sem git clone**).
-
-Índice: [`colabs/INDEX.md`](colabs/INDEX.md)
+# Colabs B555 — explicam o código do Git
 
 Repo público: https://github.com/naubergois/b555-labs
 
-Regenerar: `python3 scripts/gerar_100_colabs_b555.py`
+Cada `labs/colabs/EX-NNN.ipynb`:
+1. Explica `common.py` e `ex_NNN.py`
+2. Baixa o raw do GitHub
+3. Mostra o código completo
+4. Executa e gera a imagem
+
+Índice: [colabs/INDEX.md](colabs/INDEX.md)

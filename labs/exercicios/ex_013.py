@@ -1,0 +1,42 @@
+#!/usr/bin/env python3
+"""EX-013 — Montar diagrama
+
+Aula 01 · B555 Redes Neurais
+Dataset/imagem: diagrama_neuronio
+
+Enunciado:
+Desenhe (matplotlib) entrada→Σ→φ→saída com 2 entradas.
+
+Rode (após clonar o repo):
+  python labs/exercicios/ex_013.py
+"""
+from __future__ import annotations
+
+import sys
+from pathlib import Path
+
+_EXDIR = Path(__file__).resolve().parent
+if str(_EXDIR) not in sys.path:
+    sys.path.insert(0, str(_EXDIR))
+
+from common import (  # noqa: E402
+    RNG,
+    SEED,
+    np,
+    plt,
+    plot_diagrama_neuronio,
+    plot_fronteira,
+    plot_loss,
+    plot_sigmoid,
+    show_img_title,
+    titulo_ex,
+)
+
+
+def main() -> None:
+    titulo_ex("EX-013", "Montar diagrama")
+    plot_diagrama_neuronio()
+
+
+if __name__ == "__main__":
+    main()

@@ -1,0 +1,645 @@
+{
+  "total": 104,
+  "por_aula": {
+    "01": [
+      {
+        "id": "EX-001",
+        "titulo": "Pesos manuais na Iris",
+        "url": "https://colab.research.google.com/github/naubergois/redesneurais/blob/main/labs/colabs/EX-001.ipynb",
+        "path": "labs/colabs/EX-001.ipynb"
+      },
+      {
+        "id": "EX-002",
+        "titulo": "Treino do neurônio",
+        "url": "https://colab.research.google.com/github/naubergois/redesneurais/blob/main/labs/colabs/EX-002.ipynb",
+        "path": "labs/colabs/EX-002.ipynb"
+      },
+      {
+        "id": "EX-003",
+        "titulo": "Curva sigmoid",
+        "url": "https://colab.research.google.com/github/naubergois/redesneurais/blob/main/labs/colabs/EX-003.ipynb",
+        "path": "labs/colabs/EX-003.ipynb"
+      },
+      {
+        "id": "EX-004",
+        "titulo": "Efeito do bias",
+        "url": "https://colab.research.google.com/github/naubergois/redesneurais/blob/main/labs/colabs/EX-004.ipynb",
+        "path": "labs/colabs/EX-004.ipynb"
+      },
+      {
+        "id": "EX-005",
+        "titulo": "Degrau vs sigmoid",
+        "url": "https://colab.research.google.com/github/naubergois/redesneurais/blob/main/labs/colabs/EX-005.ipynb",
+        "path": "labs/colabs/EX-005.ipynb"
+      },
+      {
+        "id": "EX-006",
+        "titulo": "Geometria da fronteira",
+        "url": "https://colab.research.google.com/github/naubergois/redesneurais/blob/main/labs/colabs/EX-006.ipynb",
+        "path": "labs/colabs/EX-006.ipynb"
+      },
+      {
+        "id": "EX-007",
+        "titulo": "Nuvens próximas",
+        "url": "https://colab.research.google.com/github/naubergois/redesneurais/blob/main/labs/colabs/EX-007.ipynb",
+        "path": "labs/colabs/EX-007.ipynb"
+      },
+      {
+        "id": "EX-008",
+        "titulo": "Derivada do peso",
+        "url": "https://colab.research.google.com/github/naubergois/redesneurais/blob/main/labs/colabs/EX-008.ipynb",
+        "path": "labs/colabs/EX-008.ipynb"
+      },
+      {
+        "id": "EX-009",
+        "titulo": "Regressão logística",
+        "url": "https://colab.research.google.com/github/naubergois/redesneurais/blob/main/labs/colabs/EX-009.ipynb",
+        "path": "labs/colabs/EX-009.ipynb"
+      },
+      {
+        "id": "EX-010",
+        "titulo": "Limiar 0,5",
+        "url": "https://colab.research.google.com/github/naubergois/redesneurais/blob/main/labs/colabs/EX-010.ipynb",
+        "path": "labs/colabs/EX-010.ipynb"
+      },
+      {
+        "id": "EX-011",
+        "titulo": "Escala das features",
+        "url": "https://colab.research.google.com/github/naubergois/redesneurais/blob/main/labs/colabs/EX-011.ipynb",
+        "path": "labs/colabs/EX-011.ipynb"
+      },
+      {
+        "id": "EX-012",
+        "titulo": "O que o neurônio NÃO faz",
+        "url": "https://colab.research.google.com/github/naubergois/redesneurais/blob/main/labs/colabs/EX-012.ipynb",
+        "path": "labs/colabs/EX-012.ipynb"
+      },
+      {
+        "id": "EX-013",
+        "titulo": "Montar diagrama",
+        "url": "https://colab.research.google.com/github/naubergois/redesneurais/blob/main/labs/colabs/EX-013.ipynb",
+        "path": "labs/colabs/EX-013.ipynb"
+      },
+      {
+        "id": "EX-014",
+        "titulo": "Frase-guia",
+        "url": "https://colab.research.google.com/github/naubergois/redesneurais/blob/main/labs/colabs/EX-014.ipynb",
+        "path": "labs/colabs/EX-014.ipynb"
+      }
+    ],
+    "02": [
+      {
+        "id": "EX-015",
+        "titulo": "Wine + MLP",
+        "url": "https://colab.research.google.com/github/naubergois/redesneurais/blob/main/labs/colabs/EX-015.ipynb",
+        "path": "labs/colabs/EX-015.ipynb"
+      },
+      {
+        "id": "EX-016",
+        "titulo": "Curva de loss",
+        "url": "https://colab.research.google.com/github/naubergois/redesneurais/blob/main/labs/colabs/EX-016.ipynb",
+        "path": "labs/colabs/EX-016.ipynb"
+      },
+      {
+        "id": "EX-017",
+        "titulo": "Epochs efetivas",
+        "url": "https://colab.research.google.com/github/naubergois/redesneurais/blob/main/labs/colabs/EX-017.ipynb",
+        "path": "labs/colabs/EX-017.ipynb"
+      },
+      {
+        "id": "EX-018",
+        "titulo": "Overfit proposital",
+        "url": "https://colab.research.google.com/github/naubergois/redesneurais/blob/main/labs/colabs/EX-018.ipynb",
+        "path": "labs/colabs/EX-018.ipynb"
+      },
+      {
+        "id": "EX-019",
+        "titulo": "Early stopping",
+        "url": "https://colab.research.google.com/github/naubergois/redesneurais/blob/main/labs/colabs/EX-019.ipynb",
+        "path": "labs/colabs/EX-019.ipynb"
+      },
+      {
+        "id": "EX-020",
+        "titulo": "O que é loss",
+        "url": "https://colab.research.google.com/github/naubergois/redesneurais/blob/main/labs/colabs/EX-020.ipynb",
+        "path": "labs/colabs/EX-020.ipynb"
+      },
+      {
+        "id": "EX-021",
+        "titulo": "Batch vs epoch",
+        "url": "https://colab.research.google.com/github/naubergois/redesneurais/blob/main/labs/colabs/EX-021.ipynb",
+        "path": "labs/colabs/EX-021.ipynb"
+      },
+      {
+        "id": "EX-022",
+        "titulo": "Gradiente",
+        "url": "https://colab.research.google.com/github/naubergois/redesneurais/blob/main/labs/colabs/EX-022.ipynb",
+        "path": "labs/colabs/EX-022.ipynb"
+      },
+      {
+        "id": "EX-023",
+        "titulo": "Learning rate alto",
+        "url": "https://colab.research.google.com/github/naubergois/redesneurais/blob/main/labs/colabs/EX-023.ipynb",
+        "path": "labs/colabs/EX-023.ipynb"
+      },
+      {
+        "id": "EX-024",
+        "titulo": "Validação vs teste",
+        "url": "https://colab.research.google.com/github/naubergois/redesneurais/blob/main/labs/colabs/EX-024.ipynb",
+        "path": "labs/colabs/EX-024.ipynb"
+      },
+      {
+        "id": "EX-025",
+        "titulo": "Relatório Wine",
+        "url": "https://colab.research.google.com/github/naubergois/redesneurais/blob/main/labs/colabs/EX-025.ipynb",
+        "path": "labs/colabs/EX-025.ipynb"
+      },
+      {
+        "id": "EX-026",
+        "titulo": "Matriz de confusão",
+        "url": "https://colab.research.google.com/github/naubergois/redesneurais/blob/main/labs/colabs/EX-026.ipynb",
+        "path": "labs/colabs/EX-026.ipynb"
+      },
+      {
+        "id": "EX-027",
+        "titulo": "Treino ≠ generalização",
+        "url": "https://colab.research.google.com/github/naubergois/redesneurais/blob/main/labs/colabs/EX-027.ipynb",
+        "path": "labs/colabs/EX-027.ipynb"
+      }
+    ],
+    "03": [
+      {
+        "id": "EX-028",
+        "titulo": "A/B Breast Cancer",
+        "url": "https://colab.research.google.com/github/naubergois/redesneurais/blob/main/labs/colabs/EX-028.ipynb",
+        "path": "labs/colabs/EX-028.ipynb"
+      },
+      {
+        "id": "EX-029",
+        "titulo": "L2 como freio",
+        "url": "https://colab.research.google.com/github/naubergois/redesneurais/blob/main/labs/colabs/EX-029.ipynb",
+        "path": "labs/colabs/EX-029.ipynb"
+      },
+      {
+        "id": "EX-030",
+        "titulo": "Early na profunda",
+        "url": "https://colab.research.google.com/github/naubergois/redesneurais/blob/main/labs/colabs/EX-030.ipynb",
+        "path": "labs/colabs/EX-030.ipynb"
+      },
+      {
+        "id": "EX-031",
+        "titulo": "Capacidade",
+        "url": "https://colab.research.google.com/github/naubergois/redesneurais/blob/main/labs/colabs/EX-031.ipynb",
+        "path": "labs/colabs/EX-031.ipynb"
+      },
+      {
+        "id": "EX-032",
+        "titulo": "Dropout (conceito)",
+        "url": "https://colab.research.google.com/github/naubergois/redesneurais/blob/main/labs/colabs/EX-032.ipynb",
+        "path": "labs/colabs/EX-032.ipynb"
+      },
+      {
+        "id": "EX-033",
+        "titulo": "Escolha pela validação",
+        "url": "https://colab.research.google.com/github/naubergois/redesneurais/blob/main/labs/colabs/EX-033.ipynb",
+        "path": "labs/colabs/EX-033.ipynb"
+      },
+      {
+        "id": "EX-034",
+        "titulo": "Moons ruidoso",
+        "url": "https://colab.research.google.com/github/naubergois/redesneurais/blob/main/labs/colabs/EX-034.ipynb",
+        "path": "labs/colabs/EX-034.ipynb"
+      },
+      {
+        "id": "EX-035",
+        "titulo": "Noise 0,5",
+        "url": "https://colab.research.google.com/github/naubergois/redesneurais/blob/main/labs/colabs/EX-035.ipynb",
+        "path": "labs/colabs/EX-035.ipynb"
+      },
+      {
+        "id": "EX-036",
+        "titulo": "Gap treino−teste",
+        "url": "https://colab.research.google.com/github/naubergois/redesneurais/blob/main/labs/colabs/EX-036.ipynb",
+        "path": "labs/colabs/EX-036.ipynb"
+      },
+      {
+        "id": "EX-037",
+        "titulo": "Prova decorada",
+        "url": "https://colab.research.google.com/github/naubergois/redesneurais/blob/main/labs/colabs/EX-037.ipynb",
+        "path": "labs/colabs/EX-037.ipynb"
+      },
+      {
+        "id": "EX-038",
+        "titulo": "Parâmetros vs dados",
+        "url": "https://colab.research.google.com/github/naubergois/redesneurais/blob/main/labs/colabs/EX-038.ipynb",
+        "path": "labs/colabs/EX-038.ipynb"
+      },
+      {
+        "id": "EX-039",
+        "titulo": "Freios úteis",
+        "url": "https://colab.research.google.com/github/naubergois/redesneurais/blob/main/labs/colabs/EX-039.ipynb",
+        "path": "labs/colabs/EX-039.ipynb"
+      },
+      {
+        "id": "EX-040",
+        "titulo": "Uma frase",
+        "url": "https://colab.research.google.com/github/naubergois/redesneurais/blob/main/labs/colabs/EX-040.ipynb",
+        "path": "labs/colabs/EX-040.ipynb"
+      }
+    ],
+    "04": [
+      {
+        "id": "EX-041",
+        "titulo": "Amostra Fashion-MNIST",
+        "url": "https://colab.research.google.com/github/naubergois/redesneurais/blob/main/labs/colabs/EX-041.ipynb",
+        "path": "labs/colabs/EX-041.ipynb"
+      },
+      {
+        "id": "EX-042",
+        "titulo": "CNN pequena",
+        "url": "https://colab.research.google.com/github/naubergois/redesneurais/blob/main/labs/colabs/EX-042.ipynb",
+        "path": "labs/colabs/EX-042.ipynb"
+      },
+      {
+        "id": "EX-043",
+        "titulo": "Curvas CNN",
+        "url": "https://colab.research.google.com/github/naubergois/redesneurais/blob/main/labs/colabs/EX-043.ipynb",
+        "path": "labs/colabs/EX-043.ipynb"
+      },
+      {
+        "id": "EX-044",
+        "titulo": "Erros no teste",
+        "url": "https://colab.research.google.com/github/naubergois/redesneurais/blob/main/labs/colabs/EX-044.ipynb",
+        "path": "labs/colabs/EX-044.ipynb"
+      },
+      {
+        "id": "EX-045",
+        "titulo": "Filtro compartilhado",
+        "url": "https://colab.research.google.com/github/naubergois/redesneurais/blob/main/labs/colabs/EX-045.ipynb",
+        "path": "labs/colabs/EX-045.ipynb"
+      },
+      {
+        "id": "EX-046",
+        "titulo": "Convolução 3×3",
+        "url": "https://colab.research.google.com/github/naubergois/redesneurais/blob/main/labs/colabs/EX-046.ipynb",
+        "path": "labs/colabs/EX-046.ipynb"
+      },
+      {
+        "id": "EX-047",
+        "titulo": "Pooling",
+        "url": "https://colab.research.google.com/github/naubergois/redesneurais/blob/main/labs/colabs/EX-047.ipynb",
+        "path": "labs/colabs/EX-047.ipynb"
+      },
+      {
+        "id": "EX-048",
+        "titulo": "Sem Conv2D",
+        "url": "https://colab.research.google.com/github/naubergois/redesneurais/blob/main/labs/colabs/EX-048.ipynb",
+        "path": "labs/colabs/EX-048.ipynb"
+      },
+      {
+        "id": "EX-049",
+        "titulo": "Transfer learning (conceito)",
+        "url": "https://colab.research.google.com/github/naubergois/redesneurais/blob/main/labs/colabs/EX-049.ipynb",
+        "path": "labs/colabs/EX-049.ipynb"
+      },
+      {
+        "id": "EX-050",
+        "titulo": "Domínio diferente",
+        "url": "https://colab.research.google.com/github/naubergois/redesneurais/blob/main/labs/colabs/EX-050.ipynb",
+        "path": "labs/colabs/EX-050.ipynb"
+      },
+      {
+        "id": "EX-051",
+        "titulo": "Canais",
+        "url": "https://colab.research.google.com/github/naubergois/redesneurais/blob/main/labs/colabs/EX-051.ipynb",
+        "path": "labs/colabs/EX-051.ipynb"
+      },
+      {
+        "id": "EX-052",
+        "titulo": "Normalização /255",
+        "url": "https://colab.research.google.com/github/naubergois/redesneurais/blob/main/labs/colabs/EX-052.ipynb",
+        "path": "labs/colabs/EX-052.ipynb"
+      },
+      {
+        "id": "EX-053",
+        "titulo": "Lanterna no mural",
+        "url": "https://colab.research.google.com/github/naubergois/redesneurais/blob/main/labs/colabs/EX-053.ipynb",
+        "path": "labs/colabs/EX-053.ipynb"
+      },
+      {
+        "id": "EX-054",
+        "titulo": "Inspecionar erros",
+        "url": "https://colab.research.google.com/github/naubergois/redesneurais/blob/main/labs/colabs/EX-054.ipynb",
+        "path": "labs/colabs/EX-054.ipynb"
+      }
+    ],
+    "05": [
+      {
+        "id": "EX-055",
+        "titulo": "Série Airline",
+        "url": "https://colab.research.google.com/github/naubergois/redesneurais/blob/main/labs/colabs/EX-055.ipynb",
+        "path": "labs/colabs/EX-055.ipynb"
+      },
+      {
+        "id": "EX-056",
+        "titulo": "Janela 12",
+        "url": "https://colab.research.google.com/github/naubergois/redesneurais/blob/main/labs/colabs/EX-056.ipynb",
+        "path": "labs/colabs/EX-056.ipynb"
+      },
+      {
+        "id": "EX-057",
+        "titulo": "Baseline persistência",
+        "url": "https://colab.research.google.com/github/naubergois/redesneurais/blob/main/labs/colabs/EX-057.ipynb",
+        "path": "labs/colabs/EX-057.ipynb"
+      },
+      {
+        "id": "EX-058",
+        "titulo": "MLP na janela",
+        "url": "https://colab.research.google.com/github/naubergois/redesneurais/blob/main/labs/colabs/EX-058.ipynb",
+        "path": "labs/colabs/EX-058.ipynb"
+      },
+      {
+        "id": "EX-059",
+        "titulo": "LSTM",
+        "url": "https://colab.research.google.com/github/naubergois/redesneurais/blob/main/labs/colabs/EX-059.ipynb",
+        "path": "labs/colabs/EX-059.ipynb"
+      },
+      {
+        "id": "EX-060",
+        "titulo": "Split cronológico",
+        "url": "https://colab.research.google.com/github/naubergois/redesneurais/blob/main/labs/colabs/EX-060.ipynb",
+        "path": "labs/colabs/EX-060.ipynb"
+      },
+      {
+        "id": "EX-061",
+        "titulo": "Vazamento temporal",
+        "url": "https://colab.research.google.com/github/naubergois/redesneurais/blob/main/labs/colabs/EX-061.ipynb",
+        "path": "labs/colabs/EX-061.ipynb"
+      },
+      {
+        "id": "EX-062",
+        "titulo": "Quando LSTM perde",
+        "url": "https://colab.research.google.com/github/naubergois/redesneurais/blob/main/labs/colabs/EX-062.ipynb",
+        "path": "labs/colabs/EX-062.ipynb"
+      },
+      {
+        "id": "EX-063",
+        "titulo": "Estado oculto",
+        "url": "https://colab.research.google.com/github/naubergois/redesneurais/blob/main/labs/colabs/EX-063.ipynb",
+        "path": "labs/colabs/EX-063.ipynb"
+      },
+      {
+        "id": "EX-064",
+        "titulo": "Vanishing gradient",
+        "url": "https://colab.research.google.com/github/naubergois/redesneurais/blob/main/labs/colabs/EX-064.ipynb",
+        "path": "labs/colabs/EX-064.ipynb"
+      },
+      {
+        "id": "EX-065",
+        "titulo": "WhatsApp em ordem",
+        "url": "https://colab.research.google.com/github/naubergois/redesneurais/blob/main/labs/colabs/EX-065.ipynb",
+        "path": "labs/colabs/EX-065.ipynb"
+      },
+      {
+        "id": "EX-066",
+        "titulo": "Métrica de série",
+        "url": "https://colab.research.google.com/github/naubergois/redesneurais/blob/main/labs/colabs/EX-066.ipynb",
+        "path": "labs/colabs/EX-066.ipynb"
+      },
+      {
+        "id": "EX-067",
+        "titulo": "Sem espiar o futuro",
+        "url": "https://colab.research.google.com/github/naubergois/redesneurais/blob/main/labs/colabs/EX-067.ipynb",
+        "path": "labs/colabs/EX-067.ipynb"
+      }
+    ],
+    "06": [
+      {
+        "id": "EX-068",
+        "titulo": "Shapes do split",
+        "url": "https://colab.research.google.com/github/naubergois/redesneurais/blob/main/labs/colabs/EX-068.ipynb",
+        "path": "labs/colabs/EX-068.ipynb"
+      },
+      {
+        "id": "EX-069",
+        "titulo": "Baseline LR",
+        "url": "https://colab.research.google.com/github/naubergois/redesneurais/blob/main/labs/colabs/EX-069.ipynb",
+        "path": "labs/colabs/EX-069.ipynb"
+      },
+      {
+        "id": "EX-070",
+        "titulo": "MLP vs baseline",
+        "url": "https://colab.research.google.com/github/naubergois/redesneurais/blob/main/labs/colabs/EX-070.ipynb",
+        "path": "labs/colabs/EX-070.ipynb"
+      },
+      {
+        "id": "EX-071",
+        "titulo": "Teste uma vez",
+        "url": "https://colab.research.google.com/github/naubergois/redesneurais/blob/main/labs/colabs/EX-071.ipynb",
+        "path": "labs/colabs/EX-071.ipynb"
+      },
+      {
+        "id": "EX-072",
+        "titulo": "Distribuição de classes",
+        "url": "https://colab.research.google.com/github/naubergois/redesneurais/blob/main/labs/colabs/EX-072.ipynb",
+        "path": "labs/colabs/EX-072.ipynb"
+      },
+      {
+        "id": "EX-073",
+        "titulo": "Checklist relatório",
+        "url": "https://colab.research.google.com/github/naubergois/redesneurais/blob/main/labs/colabs/EX-073.ipynb",
+        "path": "labs/colabs/EX-073.ipynb"
+      },
+      {
+        "id": "EX-074",
+        "titulo": "Métrica e custo",
+        "url": "https://colab.research.google.com/github/naubergois/redesneurais/blob/main/labs/colabs/EX-074.ipynb",
+        "path": "labs/colabs/EX-074.ipynb"
+      },
+      {
+        "id": "EX-075",
+        "titulo": "Vazamento de feature",
+        "url": "https://colab.research.google.com/github/naubergois/redesneurais/blob/main/labs/colabs/EX-075.ipynb",
+        "path": "labs/colabs/EX-075.ipynb"
+      },
+      {
+        "id": "EX-076",
+        "titulo": "Seed",
+        "url": "https://colab.research.google.com/github/naubergois/redesneurais/blob/main/labs/colabs/EX-076.ipynb",
+        "path": "labs/colabs/EX-076.ipynb"
+      },
+      {
+        "id": "EX-077",
+        "titulo": "Receita de bolo",
+        "url": "https://colab.research.google.com/github/naubergois/redesneurais/blob/main/labs/colabs/EX-077.ipynb",
+        "path": "labs/colabs/EX-077.ipynb"
+      },
+      {
+        "id": "EX-078",
+        "titulo": "Baseline primeiro",
+        "url": "https://colab.research.google.com/github/naubergois/redesneurais/blob/main/labs/colabs/EX-078.ipynb",
+        "path": "labs/colabs/EX-078.ipynb"
+      },
+      {
+        "id": "EX-079",
+        "titulo": "Ética/dados",
+        "url": "https://colab.research.google.com/github/naubergois/redesneurais/blob/main/labs/colabs/EX-079.ipynb",
+        "path": "labs/colabs/EX-079.ipynb"
+      },
+      {
+        "id": "EX-080",
+        "titulo": "Produto da aula",
+        "url": "https://colab.research.google.com/github/naubergois/redesneurais/blob/main/labs/colabs/EX-080.ipynb",
+        "path": "labs/colabs/EX-080.ipynb"
+      }
+    ],
+    "07": [
+      {
+        "id": "EX-081",
+        "titulo": "Wine binário setup",
+        "url": "https://colab.research.google.com/github/naubergois/redesneurais/blob/main/labs/colabs/EX-081.ipynb",
+        "path": "labs/colabs/EX-081.ipynb"
+      },
+      {
+        "id": "EX-082",
+        "titulo": "Sprint baseline",
+        "url": "https://colab.research.google.com/github/naubergois/redesneurais/blob/main/labs/colabs/EX-082.ipynb",
+        "path": "labs/colabs/EX-082.ipynb"
+      },
+      {
+        "id": "EX-083",
+        "titulo": "Ablação tamanho",
+        "url": "https://colab.research.google.com/github/naubergois/redesneurais/blob/main/labs/colabs/EX-083.ipynb",
+        "path": "labs/colabs/EX-083.ipynb"
+      },
+      {
+        "id": "EX-084",
+        "titulo": "Ablação L2",
+        "url": "https://colab.research.google.com/github/naubergois/redesneurais/blob/main/labs/colabs/EX-084.ipynb",
+        "path": "labs/colabs/EX-084.ipynb"
+      },
+      {
+        "id": "EX-085",
+        "titulo": "Evidência|risco|ação",
+        "url": "https://colab.research.google.com/github/naubergois/redesneurais/blob/main/labs/colabs/EX-085.ipynb",
+        "path": "labs/colabs/EX-085.ipynb"
+      },
+      {
+        "id": "EX-086",
+        "titulo": "MVP",
+        "url": "https://colab.research.google.com/github/naubergois/redesneurais/blob/main/labs/colabs/EX-086.ipynb",
+        "path": "labs/colabs/EX-086.ipynb"
+      },
+      {
+        "id": "EX-087",
+        "titulo": "Não misturar fatores",
+        "url": "https://colab.research.google.com/github/naubergois/redesneurais/blob/main/labs/colabs/EX-087.ipynb",
+        "path": "labs/colabs/EX-087.ipynb"
+      },
+      {
+        "id": "EX-088",
+        "titulo": "Checkpoint",
+        "url": "https://colab.research.google.com/github/naubergois/redesneurais/blob/main/labs/colabs/EX-088.ipynb",
+        "path": "labs/colabs/EX-088.ipynb"
+      },
+      {
+        "id": "EX-089",
+        "titulo": "Demo que roda",
+        "url": "https://colab.research.google.com/github/naubergois/redesneurais/blob/main/labs/colabs/EX-089.ipynb",
+        "path": "labs/colabs/EX-089.ipynb"
+      },
+      {
+        "id": "EX-090",
+        "titulo": "Menor móvel útil",
+        "url": "https://colab.research.google.com/github/naubergois/redesneurais/blob/main/labs/colabs/EX-090.ipynb",
+        "path": "labs/colabs/EX-090.ipynb"
+      }
+    ],
+    "08": [
+      {
+        "id": "EX-091",
+        "titulo": "Revalidar protocolo",
+        "url": "https://colab.research.google.com/github/naubergois/redesneurais/blob/main/labs/colabs/EX-091.ipynb",
+        "path": "labs/colabs/EX-091.ipynb"
+      },
+      {
+        "id": "EX-092",
+        "titulo": "Roteiro 10 min",
+        "url": "https://colab.research.google.com/github/naubergois/redesneurais/blob/main/labs/colabs/EX-092.ipynb",
+        "path": "labs/colabs/EX-092.ipynb"
+      },
+      {
+        "id": "EX-093",
+        "titulo": "Checklist oral",
+        "url": "https://colab.research.google.com/github/naubergois/redesneurais/blob/main/labs/colabs/EX-093.ipynb",
+        "path": "labs/colabs/EX-093.ipynb"
+      },
+      {
+        "id": "EX-094",
+        "titulo": "Manter baseline",
+        "url": "https://colab.research.google.com/github/naubergois/redesneurais/blob/main/labs/colabs/EX-094.ipynb",
+        "path": "labs/colabs/EX-094.ipynb"
+      },
+      {
+        "id": "EX-095",
+        "titulo": "Exemplo de erro",
+        "url": "https://colab.research.google.com/github/naubergois/redesneurais/blob/main/labs/colabs/EX-095.ipynb",
+        "path": "labs/colabs/EX-095.ipynb"
+      },
+      {
+        "id": "EX-096",
+        "titulo": "Recomendação em 2 frases",
+        "url": "https://colab.research.google.com/github/naubergois/redesneurais/blob/main/labs/colabs/EX-096.ipynb",
+        "path": "labs/colabs/EX-096.ipynb"
+      },
+      {
+        "id": "EX-097",
+        "titulo": "História no elevador",
+        "url": "https://colab.research.google.com/github/naubergois/redesneurais/blob/main/labs/colabs/EX-097.ipynb",
+        "path": "labs/colabs/EX-097.ipynb"
+      },
+      {
+        "id": "EX-098",
+        "titulo": "Frequência 75%",
+        "url": "https://colab.research.google.com/github/naubergois/redesneurais/blob/main/labs/colabs/EX-098.ipynb",
+        "path": "labs/colabs/EX-098.ipynb"
+      },
+      {
+        "id": "EX-099",
+        "titulo": "Média 7",
+        "url": "https://colab.research.google.com/github/naubergois/redesneurais/blob/main/labs/colabs/EX-099.ipynb",
+        "path": "labs/colabs/EX-099.ipynb"
+      },
+      {
+        "id": "EX-100",
+        "titulo": "O que a defesa NÃO é",
+        "url": "https://colab.research.google.com/github/naubergois/redesneurais/blob/main/labs/colabs/EX-100.ipynb",
+        "path": "labs/colabs/EX-100.ipynb"
+      },
+      {
+        "id": "EX-101",
+        "titulo": "Feedback útil",
+        "url": "https://colab.research.google.com/github/naubergois/redesneurais/blob/main/labs/colabs/EX-101.ipynb",
+        "path": "labs/colabs/EX-101.ipynb"
+      },
+      {
+        "id": "EX-102",
+        "titulo": "Slides da rubrica",
+        "url": "https://colab.research.google.com/github/naubergois/redesneurais/blob/main/labs/colabs/EX-102.ipynb",
+        "path": "labs/colabs/EX-102.ipynb"
+      },
+      {
+        "id": "EX-103",
+        "titulo": "Frase-guia final",
+        "url": "https://colab.research.google.com/github/naubergois/redesneurais/blob/main/labs/colabs/EX-103.ipynb",
+        "path": "labs/colabs/EX-103.ipynb"
+      },
+      {
+        "id": "EX-104",
+        "titulo": "Fechamento",
+        "url": "https://colab.research.google.com/github/naubergois/redesneurais/blob/main/labs/colabs/EX-104.ipynb",
+        "path": "labs/colabs/EX-104.ipynb"
+      }
+    ]
+  }
+}

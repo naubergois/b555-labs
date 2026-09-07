@@ -1,0 +1,7 @@
+numpy>=1.24
+scikit-learn>=1.3
+matplotlib>=3.7
+pandas>=2.0
+# Opcional no Colab / GPU:
+# tensorflow>=2.15
+# torch>=2.1

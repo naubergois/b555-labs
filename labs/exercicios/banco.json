@@ -13,7 +13,7 @@
       "gabarito_curto": "ruim ~baixa; ok ~alta",
       "script": "labs/exercicios/ex_001.py",
       "colab": "labs/colabs/EX-001.ipynb",
-      "colab_url": "https://colab.research.google.com/github/naubergois/redesneurais/blob/main/labs/colabs/EX-001.ipynb"
+      "colab_url": "https://colab.research.google.com/github/naubergois/b555-labs/blob/main/labs/colabs/EX-001.ipynb"
     },
     {
       "id": "EX-002",
@@ -25,7 +25,7 @@
       "gabarito_curto": "sim, tipicamente",
       "script": "labs/exercicios/ex_002.py",
       "colab": "labs/colabs/EX-002.ipynb",
-      "colab_url": "https://colab.research.google.com/github/naubergois/redesneurais/blob/main/labs/colabs/EX-002.ipynb"
+      "colab_url": "https://colab.research.google.com/github/naubergois/b555-labs/blob/main/labs/colabs/EX-002.ipynb"
     },
     {
       "id": "EX-003",
@@ -37,7 +37,7 @@
       "gabarito_curto": "0,5",
       "script": "labs/exercicios/ex_003.py",
       "colab": "labs/colabs/EX-003.ipynb",
-      "colab_url": "https://colab.research.google.com/github/naubergois/redesneurais/blob/main/labs/colabs/EX-003.ipynb"
+      "colab_url": "https://colab.research.google.com/github/naubergois/b555-labs/blob/main/labs/colabs/EX-003.ipynb"
     },
     {
       "id": "EX-004",
@@ -49,7 +49,7 @@
       "gabarito_curto": "sim",
       "script": "labs/exercicios/ex_004.py",
       "colab": "labs/colabs/EX-004.ipynb",
-      "colab_url": "https://colab.research.google.com/github/naubergois/redesneurais/blob/main/labs/colabs/EX-004.ipynb"
+      "colab_url": "https://colab.research.google.com/github/naubergois/b555-labs/blob/main/labs/colabs/EX-004.ipynb"
     },
     {
       "id": "EX-005",
@@ -61,7 +61,7 @@
       "gabarito_curto": "abrupta",
       "script": "labs/exercicios/ex_005.py",
       "colab": "labs/colabs/EX-005.ipynb",
-      "colab_url": "https://colab.research.google.com/github/naubergois/redesneurais/blob/main/labs/colabs/EX-005.ipynb"
+      "colab_url": "https://colab.research.google.com/github/naubergois/b555-labs/blob/main/labs/colabs/EX-005.ipynb"
     },
     {
       "id": "EX-006",
@@ -73,7 +73,7 @@
       "gabarito_curto": "o intercepto / desloca a reta",
       "script": "labs/exercicios/ex_006.py",
       "colab": "labs/colabs/EX-006.ipynb",
-      "colab_url": "https://colab.research.google.com/github/naubergois/redesneurais/blob/main/labs/colabs/EX-006.ipynb"
+      "colab_url": "https://colab.research.google.com/github/naubergois/b555-labs/blob/main/labs/colabs/EX-006.ipynb"
     },
     {
       "id": "EX-007",
@@ -85,7 +85,7 @@
       "gabarito_curto": "~0,4–0,8",
       "script": "labs/exercicios/ex_007.py",
       "colab": "labs/colabs/EX-007.ipynb",
-      "colab_url": "https://colab.research.google.com/github/naubergois/redesneurais/blob/main/labs/colabs/EX-007.ipynb"
+      "colab_url": "https://colab.research.google.com/github/naubergois/b555-labs/blob/main/labs/colabs/EX-007.ipynb"
     },
     {
       "id": "EX-008",
@@ -97,7 +97,7 @@
       "gabarito_curto": "sobe",
       "script": "labs/exercicios/ex_008.py",
       "colab": "labs/colabs/EX-008.ipynb",
-      "colab_url": "https://colab.research.google.com/github/naubergois/redesneurais/blob/main/labs/colabs/EX-008.ipynb"
+      "colab_url": "https://colab.research.google.com/github/naubergois/b555-labs/blob/main/labs/colabs/EX-008.ipynb"
     },
     {
       "id": "EX-009",
@@ -109,7 +109,7 @@
       "gabarito_curto": "regressão logística",
       "script": "labs/exercicios/ex_009.py",
       "colab": "labs/colabs/EX-009.ipynb",
-      "colab_url": "https://colab.research.google.com/github/naubergois/redesneurais/blob/main/labs/colabs/EX-009.ipynb"
+      "colab_url": "https://colab.research.google.com/github/naubergois/b555-labs/blob/main/labs/colabs/EX-009.ipynb"
     },
     {
       "id": "EX-010",
@@ -121,7 +121,7 @@
       "gabarito_curto": "0 e 1",
       "script": "labs/exercicios/ex_010.py",
       "colab": "labs/colabs/EX-010.ipynb",
-      "colab_url": "https://colab.research.google.com/github/naubergois/redesneurais/blob/main/labs/colabs/EX-010.ipynb"
+      "colab_url": "https://colab.research.google.com/github/naubergois/b555-labs/blob/main/labs/colabs/EX-010.ipynb"
     },
     {
       "id": "EX-011",
@@ -133,7 +133,7 @@
       "gabarito_curto": "pesos comparáveis / convergência",
       "script": "labs/exercicios/ex_011.py",
       "colab": "labs/colabs/EX-011.ipynb",
-      "colab_url": "https://colab.research.google.com/github/naubergois/redesneurais/blob/main/labs/colabs/EX-011.ipynb"
+      "colab_url": "https://colab.research.google.com/github/naubergois/b555-labs/blob/main/labs/colabs/EX-011.ipynb"
     },
     {
       "id": "EX-012",
@@ -145,7 +145,7 @@
       "gabarito_curto": "não",
       "script": "labs/exercicios/ex_012.py",
       "colab": "labs/colabs/EX-012.ipynb",
-      "colab_url": "https://colab.research.google.com/github/naubergois/redesneurais/blob/main/labs/colabs/EX-012.ipynb"
+      "colab_url": "https://colab.research.google.com/github/naubergois/b555-labs/blob/main/labs/colabs/EX-012.ipynb"
     },
     {
       "id": "EX-013",
@@ -157,7 +157,7 @@
       "gabarito_curto": "",
       "script": "labs/exercicios/ex_013.py",
       "colab": "labs/colabs/EX-013.ipynb",
-      "colab_url": "https://colab.research.google.com/github/naubergois/redesneurais/blob/main/labs/colabs/EX-013.ipynb"
+      "colab_url": "https://colab.research.google.com/github/naubergois/b555-labs/blob/main/labs/colabs/EX-013.ipynb"
     },
     {
       "id": "EX-014",
@@ -169,7 +169,7 @@
       "gabarito_curto": "calcula; decidimos",
       "script": "labs/exercicios/ex_014.py",
       "colab": "labs/colabs/EX-014.ipynb",
-      "colab_url": "https://colab.research.google.com/github/naubergois/redesneurais/blob/main/labs/colabs/EX-014.ipynb"
+      "colab_url": "https://colab.research.google.com/github/naubergois/b555-labs/blob/main/labs/colabs/EX-014.ipynb"
     },
     {
       "id": "EX-015",
@@ -181,7 +181,7 @@
       "gabarito_curto": "",
       "script": "labs/exercicios/ex_015.py",
       "colab": "labs/colabs/EX-015.ipynb",
-      "colab_url": "https://colab.research.google.com/github/naubergois/redesneurais/blob/main/labs/colabs/EX-015.ipynb"
+      "colab_url": "https://colab.research.google.com/github/naubergois/b555-labs/blob/main/labs/colabs/EX-015.ipynb"
     },
     {
       "id": "EX-016",
@@ -193,7 +193,7 @@
       "gabarito_curto": "",
       "script": "labs/exercicios/ex_016.py",
       "colab": "labs/colabs/EX-016.ipynb",
-      "colab_url": "https://colab.research.google.com/github/naubergois/redesneurais/blob/main/labs/colabs/EX-016.ipynb"
+      "colab_url": "https://colab.research.google.com/github/naubergois/b555-labs/blob/main/labs/colabs/EX-016.ipynb"
     },
     {
       "id": "EX-017",
@@ -205,7 +205,7 @@
       "gabarito_curto": "",
       "script": "labs/exercicios/ex_017.py",
       "colab": "labs/colabs/EX-017.ipynb",
-      "colab_url": "https://colab.research.google.com/github/naubergois/redesneurais/blob/main/labs/colabs/EX-017.ipynb"
+      "colab_url": "https://colab.research.google.com/github/naubergois/b555-labs/blob/main/labs/colabs/EX-017.ipynb"
     },
     {
       "id": "EX-018",
@@ -217,7 +217,7 @@
       "gabarito_curto": "",
       "script": "labs/exercicios/ex_018.py",
       "colab": "labs/colabs/EX-018.ipynb",
-      "colab_url": "https://colab.research.google.com/github/naubergois/redesneurais/blob/main/labs/colabs/EX-018.ipynb"
+      "colab_url": "https://colab.research.google.com/github/naubergois/b555-labs/blob/main/labs/colabs/EX-018.ipynb"
     },
     {
       "id": "EX-019",
@@ -229,7 +229,7 @@
       "gabarito_curto": "",
       "script": "labs/exercicios/ex_019.py",
       "colab": "labs/colabs/EX-019.ipynb",
-      "colab_url": "https://colab.research.google.com/github/naubergois/redesneurais/blob/main/labs/colabs/EX-019.ipynb"
+      "colab_url": "https://colab.research.google.com/github/naubergois/b555-labs/blob/main/labs/colabs/EX-019.ipynb"
     },
     {
       "id": "EX-020",
@@ -241,7 +241,7 @@
       "gabarito_curto": "erro da previsão vs rótulo",
       "script": "labs/exercicios/ex_020.py",
       "colab": "labs/colabs/EX-020.ipynb",
-      "colab_url": "https://colab.research.google.com/github/naubergois/redesneurais/blob/main/labs/colabs/EX-020.ipynb"
+      "colab_url": "https://colab.research.google.com/github/naubergois/b555-labs/blob/main/labs/colabs/EX-020.ipynb"
     },
     {
       "id": "EX-021",
@@ -253,7 +253,7 @@
       "gabarito_curto": "o conjunto de treino inteiro",
       "script": "labs/exercicios/ex_021.py",
       "colab": "labs/colabs/EX-021.ipynb",
-      "colab_url": "https://colab.research.google.com/github/naubergois/redesneurais/blob/main/labs/colabs/EX-021.ipynb"
+      "colab_url": "https://colab.research.google.com/github/naubergois/b555-labs/blob/main/labs/colabs/EX-021.ipynb"
     },
     {
       "id": "EX-022",
@@ -265,7 +265,7 @@
       "gabarito_curto": "sobe (subimos o negativo)",
       "script": "labs/exercicios/ex_022.py",
       "colab": "labs/colabs/EX-022.ipynb",
-      "colab_url": "https://colab.research.google.com/github/naubergois/redesneurais/blob/main/labs/colabs/EX-022.ipynb"
+      "colab_url": "https://colab.research.google.com/github/naubergois/b555-labs/blob/main/labs/colabs/EX-022.ipynb"
     },
     {
       "id": "EX-023",
@@ -277,7 +277,7 @@
       "gabarito_curto": "oscilar / divergir",
       "script": "labs/exercicios/ex_023.py",
       "colab": "labs/colabs/EX-023.ipynb",
-      "colab_url": "https://colab.research.google.com/github/naubergois/redesneurais/blob/main/labs/colabs/EX-023.ipynb"
+      "colab_url": "https://colab.research.google.com/github/naubergois/b555-labs/blob/main/labs/colabs/EX-023.ipynb"
     },
     {
       "id": "EX-024",
@@ -289,7 +289,7 @@
       "gabarito_curto": "validação",
       "script": "labs/exercicios/ex_024.py",
       "colab": "labs/colabs/EX-024.ipynb",
-      "colab_url": "https://colab.research.google.com/github/naubergois/redesneurais/blob/main/labs/colabs/EX-024.ipynb"
+      "colab_url": "https://colab.research.google.com/github/naubergois/b555-labs/blob/main/labs/colabs/EX-024.ipynb"
     },
     {
       "id": "EX-025",
@@ -301,7 +301,7 @@
       "gabarito_curto": "",
       "script": "labs/exercicios/ex_025.py",
       "colab": "labs/colabs/EX-025.ipynb",
-      "colab_url": "https://colab.research.google.com/github/naubergois/redesneurais/blob/main/labs/colabs/EX-025.ipynb"
+      "colab_url": "https://colab.research.google.com/github/naubergois/b555-labs/blob/main/labs/colabs/EX-025.ipynb"
     },
     {
       "id": "EX-026",
@@ -313,7 +313,7 @@
       "gabarito_curto": "",
       "script": "labs/exercicios/ex_026.py",
       "colab": "labs/colabs/EX-026.ipynb",
-      "colab_url": "https://colab.research.google.com/github/naubergois/redesneurais/blob/main/labs/colabs/EX-026.ipynb"
+      "colab_url": "https://colab.research.google.com/github/naubergois/b555-labs/blob/main/labs/colabs/EX-026.ipynb"
     },
     {
       "id": "EX-027",
@@ -325,7 +325,7 @@
       "gabarito_curto": "treino baixo ≠ generalização",
       "script": "labs/exercicios/ex_027.py",
       "colab": "labs/colabs/EX-027.ipynb",
-      "colab_url": "https://colab.research.google.com/github/naubergois/redesneurais/blob/main/labs/colabs/EX-027.ipynb"
+      "colab_url": "https://colab.research.google.com/github/naubergois/b555-labs/blob/main/labs/colabs/EX-027.ipynb"
     },
     {
       "id": "EX-028",
@@ -337,7 +337,7 @@
       "gabarito_curto": "",
       "script": "labs/exercicios/ex_028.py",
       "colab": "labs/colabs/EX-028.ipynb",
-      "colab_url": "https://colab.research.google.com/github/naubergois/redesneurais/blob/main/labs/colabs/EX-028.ipynb"
+      "colab_url": "https://colab.research.google.com/github/naubergois/b555-labs/blob/main/labs/colabs/EX-028.ipynb"
     },
     {
       "id": "EX-029",
@@ -349,7 +349,7 @@
       "gabarito_curto": "",
       "script": "labs/exercicios/ex_029.py",
       "colab": "labs/colabs/EX-029.ipynb",
-      "colab_url": "https://colab.research.google.com/github/naubergois/redesneurais/blob/main/labs/colabs/EX-029.ipynb"
+      "colab_url": "https://colab.research.google.com/github/naubergois/b555-labs/blob/main/labs/colabs/EX-029.ipynb"
     },
     {
       "id": "EX-030",
@@ -361,7 +361,7 @@
       "gabarito_curto": "",
       "script": "labs/exercicios/ex_030.py",
       "colab": "labs/colabs/EX-030.ipynb",
-      "colab_url": "https://colab.research.google.com/github/naubergois/redesneurais/blob/main/labs/colabs/EX-030.ipynb"
+      "colab_url": "https://colab.research.google.com/github/naubergois/b555-labs/blob/main/labs/colabs/EX-030.ipynb"
     },
     {
       "id": "EX-031",
@@ -373,7 +373,7 @@
       "gabarito_curto": "não",
       "script": "labs/exercicios/ex_031.py",
       "colab": "labs/colabs/EX-031.ipynb",
-      "colab_url": "https://colab.research.google.com/github/naubergois/redesneurais/blob/main/labs/colabs/EX-031.ipynb"
+      "colab_url": "https://colab.research.google.com/github/naubergois/b555-labs/blob/main/labs/colabs/EX-031.ipynb"
     },
     {
       "id": "EX-032",
@@ -385,7 +385,7 @@
       "gabarito_curto": "usa rede 'média' / sem desligar",
       "script": "labs/exercicios/ex_032.py",
       "colab": "labs/colabs/EX-032.ipynb",
-      "colab_url": "https://colab.research.google.com/github/naubergois/redesneurais/blob/main/labs/colabs/EX-032.ipynb"
+      "colab_url": "https://colab.research.google.com/github/naubergois/b555-labs/blob/main/labs/colabs/EX-032.ipynb"
     },
     {
       "id": "EX-033",
@@ -397,7 +397,7 @@
       "gabarito_curto": "validação; teste",
       "script": "labs/exercicios/ex_033.py",
       "colab": "labs/colabs/EX-033.ipynb",
-      "colab_url": "https://colab.research.google.com/github/naubergois/redesneurais/blob/main/labs/colabs/EX-033.ipynb"
+      "colab_url": "https://colab.research.google.com/github/naubergois/b555-labs/blob/main/labs/colabs/EX-033.ipynb"
     },
     {
       "id": "EX-034",
@@ -409,7 +409,7 @@
       "gabarito_curto": "",
       "script": "labs/exercicios/ex_034.py",
       "colab": "labs/colabs/EX-034.ipynb",
-      "colab_url": "https://colab.research.google.com/github/naubergois/redesneurais/blob/main/labs/colabs/EX-034.ipynb"
+      "colab_url": "https://colab.research.google.com/github/naubergois/b555-labs/blob/main/labs/colabs/EX-034.ipynb"
     },
     {
       "id": "EX-035",
@@ -421,7 +421,7 @@
       "gabarito_curto": "",
       "script": "labs/exercicios/ex_035.py",
       "colab": "labs/colabs/EX-035.ipynb",
-      "colab_url": "https://colab.research.google.com/github/naubergois/redesneurais/blob/main/labs/colabs/EX-035.ipynb"
+      "colab_url": "https://colab.research.google.com/github/naubergois/b555-labs/blob/main/labs/colabs/EX-035.ipynb"
     },
     {
       "id": "EX-036",
@@ -433,7 +433,7 @@
       "gabarito_curto": "",
       "script": "labs/exercicios/ex_036.py",
       "colab": "labs/colabs/EX-036.ipynb",
-      "colab_url": "https://colab.research.google.com/github/naubergois/redesneurais/blob/main/labs/colabs/EX-036.ipynb"
+      "colab_url": "https://colab.research.google.com/github/naubergois/b555-labs/blob/main/labs/colabs/EX-036.ipynb"
     },
     {
       "id": "EX-037",
@@ -445,7 +445,7 @@
       "gabarito_curto": "decorar a prova",
       "script": "labs/exercicios/ex_037.py",
       "colab": "labs/colabs/EX-037.ipynb",
-      "colab_url": "https://colab.research.google.com/github/naubergois/redesneurais/blob/main/labs/colabs/EX-037.ipynb"
+      "colab_url": "https://colab.research.google.com/github/naubergois/b555-labs/blob/main/labs/colabs/EX-037.ipynb"
     },
     {
       "id": "EX-038",
@@ -457,7 +457,7 @@
       "gabarito_curto": "overfit",
       "script": "labs/exercicios/ex_038.py",
       "colab": "labs/colabs/EX-038.ipynb",
-      "colab_url": "https://colab.research.google.com/github/naubergois/redesneurais/blob/main/labs/colabs/EX-038.ipynb"
+      "colab_url": "https://colab.research.google.com/github/naubergois/b555-labs/blob/main/labs/colabs/EX-038.ipynb"
     },
     {
       "id": "EX-039",
@@ -469,7 +469,7 @@
       "gabarito_curto": "L2, early stopping, dropout",
       "script": "labs/exercicios/ex_039.py",
       "colab": "labs/colabs/EX-039.ipynb",
-      "colab_url": "https://colab.research.google.com/github/naubergois/redesneurais/blob/main/labs/colabs/EX-039.ipynb"
+      "colab_url": "https://colab.research.google.com/github/naubergois/b555-labs/blob/main/labs/colabs/EX-039.ipynb"
     },
     {
       "id": "EX-040",
@@ -481,7 +481,7 @@
       "gabarito_curto": "condicionam",
       "script": "labs/exercicios/ex_040.py",
       "colab": "labs/colabs/EX-040.ipynb",
-      "colab_url": "https://colab.research.google.com/github/naubergois/redesneurais/blob/main/labs/colabs/EX-040.ipynb"
+      "colab_url": "https://colab.research.google.com/github/naubergois/b555-labs/blob/main/labs/colabs/EX-040.ipynb"
     },
     {
       "id": "EX-041",
@@ -493,7 +493,7 @@
       "gabarito_curto": "",
       "script": "labs/exercicios/ex_041.py",
       "colab": "labs/colabs/EX-041.ipynb",
-      "colab_url": "https://colab.research.google.com/github/naubergois/redesneurais/blob/main/labs/colabs/EX-041.ipynb"
+      "colab_url": "https://colab.research.google.com/github/naubergois/b555-labs/blob/main/labs/colabs/EX-041.ipynb"
     },
     {
       "id": "EX-042",
@@ -505,7 +505,7 @@
       "gabarito_curto": "",
       "script": "labs/exercicios/ex_042.py",
       "colab": "labs/colabs/EX-042.ipynb",
-      "colab_url": "https://colab.research.google.com/github/naubergois/redesneurais/blob/main/labs/colabs/EX-042.ipynb"
+      "colab_url": "https://colab.research.google.com/github/naubergois/b555-labs/blob/main/labs/colabs/EX-042.ipynb"
     },
     {
       "id": "EX-043",
@@ -517,7 +517,7 @@
       "gabarito_curto": "",
       "script": "labs/exercicios/ex_043.py",
       "colab": "labs/colabs/EX-043.ipynb",
-      "colab_url": "https://colab.research.google.com/github/naubergois/redesneurais/blob/main/labs/colabs/EX-043.ipynb"
+      "colab_url": "https://colab.research.google.com/github/naubergois/b555-labs/blob/main/labs/colabs/EX-043.ipynb"
     },
     {
       "id": "EX-044",
@@ -529,7 +529,7 @@
       "gabarito_curto": "",
       "script": "labs/exercicios/ex_044.py",
       "colab": "labs/colabs/EX-044.ipynb",
-      "colab_url": "https://colab.research.google.com/github/naubergois/redesneurais/blob/main/labs/colabs/EX-044.ipynb"
+      "colab_url": "https://colab.research.google.com/github/naubergois/b555-labs/blob/main/labs/colabs/EX-044.ipynb"
     },
     {
       "id": "EX-045",
@@ -541,7 +541,7 @@
       "gabarito_curto": "mesmo padrão em qualquer canto",
       "script": "labs/exercicios/ex_045.py",
       "colab": "labs/colabs/EX-045.ipynb",
-      "colab_url": "https://colab.research.google.com/github/naubergois/redesneurais/blob/main/labs/colabs/EX-045.ipynb"
+      "colab_url": "https://colab.research.google.com/github/naubergois/b555-labs/blob/main/labs/colabs/EX-045.ipynb"
     },
     {
       "id": "EX-046",
@@ -553,7 +553,7 @@
       "gabarito_curto": "",
       "script": "labs/exercicios/ex_046.py",
       "colab": "labs/colabs/EX-046.ipynb",
-      "colab_url": "https://colab.research.google.com/github/naubergois/redesneurais/blob/main/labs/colabs/EX-046.ipynb"
+      "colab_url": "https://colab.research.google.com/github/naubergois/b555-labs/blob/main/labs/colabs/EX-046.ipynb"
     },
     {
       "id": "EX-047",
@@ -565,7 +565,7 @@
       "gabarito_curto": "14×14",
       "script": "labs/exercicios/ex_047.py",
       "colab": "labs/colabs/EX-047.ipynb",
-      "colab_url": "https://colab.research.google.com/github/naubergois/redesneurais/blob/main/labs/colabs/EX-047.ipynb"
+      "colab_url": "https://colab.research.google.com/github/naubergois/b555-labs/blob/main/labs/colabs/EX-047.ipynb"
     },
     {
       "id": "EX-048",
@@ -577,7 +577,7 @@
       "gabarito_curto": "",
       "script": "labs/exercicios/ex_048.py",
       "colab": "labs/colabs/EX-048.ipynb",
-      "colab_url": "https://colab.research.google.com/github/naubergois/redesneurais/blob/main/labs/colabs/EX-048.ipynb"
+      "colab_url": "https://colab.research.google.com/github/naubergois/b555-labs/blob/main/labs/colabs/EX-048.ipynb"
     },
     {
       "id": "EX-049",
@@ -589,7 +589,7 @@
       "gabarito_curto": "modelo pré-treinado / outro dataset",
       "script": "labs/exercicios/ex_049.py",
       "colab": "labs/colabs/EX-049.ipynb",
-      "colab_url": "https://colab.research.google.com/github/naubergois/redesneurais/blob/main/labs/colabs/EX-049.ipynb"
+      "colab_url": "https://colab.research.google.com/github/naubergois/b555-labs/blob/main/labs/colabs/EX-049.ipynb"
     },
     {
       "id": "EX-050",
@@ -601,7 +601,7 @@
       "gabarito_curto": "não",
       "script": "labs/exercicios/ex_050.py",
       "colab": "labs/colabs/EX-050.ipynb",
-      "colab_url": "https://colab.research.google.com/github/naubergois/redesneurais/blob/main/labs/colabs/EX-050.ipynb"
+      "colab_url": "https://colab.research.google.com/github/naubergois/b555-labs/blob/main/labs/colabs/EX-050.ipynb"
     },
     {
       "id": "EX-051",
@@ -613,7 +613,7 @@
       "gabarito_curto": "1",
       "script": "labs/exercicios/ex_051.py",
       "colab": "labs/colabs/EX-051.ipynb",
-      "colab_url": "https://colab.research.google.com/github/naubergois/redesneurais/blob/main/labs/colabs/EX-051.ipynb"
+      "colab_url": "https://colab.research.google.com/github/naubergois/b555-labs/blob/main/labs/colabs/EX-051.ipynb"
     },
     {
       "id": "EX-052",
@@ -625,7 +625,7 @@
       "gabarito_curto": "escalar para [0,1]",
       "script": "labs/exercicios/ex_052.py",
       "colab": "labs/colabs/EX-052.ipynb",
-      "colab_url": "https://colab.research.google.com/github/naubergois/redesneurais/blob/main/labs/colabs/EX-052.ipynb"
+      "colab_url": "https://colab.research.google.com/github/naubergois/b555-labs/blob/main/labs/colabs/EX-052.ipynb"
     },
     {
       "id": "EX-053",
@@ -637,7 +637,7 @@
       "gabarito_curto": "lanterna no mural",
       "script": "labs/exercicios/ex_053.py",
       "colab": "labs/colabs/EX-053.ipynb",
-      "colab_url": "https://colab.research.google.com/github/naubergois/redesneurais/blob/main/labs/colabs/EX-053.ipynb"
+      "colab_url": "https://colab.research.google.com/github/naubergois/b555-labs/blob/main/labs/colabs/EX-053.ipynb"
     },
     {
       "id": "EX-054",
@@ -649,7 +649,7 @@
       "gabarito_curto": "erros / padrões de falha",
       "script": "labs/exercicios/ex_054.py",
       "colab": "labs/colabs/EX-054.ipynb",
-      "colab_url": "https://colab.research.google.com/github/naubergois/redesneurais/blob/main/labs/colabs/EX-054.ipynb"
+      "colab_url": "https://colab.research.google.com/github/naubergois/b555-labs/blob/main/labs/colabs/EX-054.ipynb"
     },
     {
       "id": "EX-055",
@@ -661,7 +661,7 @@
       "gabarito_curto": "",
       "script": "labs/exercicios/ex_055.py",
       "colab": "labs/colabs/EX-055.ipynb",
-      "colab_url": "https://colab.research.google.com/github/naubergois/redesneurais/blob/main/labs/colabs/EX-055.ipynb"
+      "colab_url": "https://colab.research.google.com/github/naubergois/b555-labs/blob/main/labs/colabs/EX-055.ipynb"
     },
     {
       "id": "EX-056",
@@ -673,7 +673,7 @@
       "gabarito_curto": "",
       "script": "labs/exercicios/ex_056.py",
       "colab": "labs/colabs/EX-056.ipynb",
-      "colab_url": "https://colab.research.google.com/github/naubergois/redesneurais/blob/main/labs/colabs/EX-056.ipynb"
+      "colab_url": "https://colab.research.google.com/github/naubergois/b555-labs/blob/main/labs/colabs/EX-056.ipynb"
     },
     {
       "id": "EX-057",
@@ -685,7 +685,7 @@
       "gabarito_curto": "",
       "script": "labs/exercicios/ex_057.py",
       "colab": "labs/colabs/EX-057.ipynb",
-      "colab_url": "https://colab.research.google.com/github/naubergois/redesneurais/blob/main/labs/colabs/EX-057.ipynb"
+      "colab_url": "https://colab.research.google.com/github/naubergois/b555-labs/blob/main/labs/colabs/EX-057.ipynb"
     },
     {
       "id": "EX-058",
@@ -697,7 +697,7 @@
       "gabarito_curto": "",
       "script": "labs/exercicios/ex_058.py",
       "colab": "labs/colabs/EX-058.ipynb",
-      "colab_url": "https://colab.research.google.com/github/naubergois/redesneurais/blob/main/labs/colabs/EX-058.ipynb"
+      "colab_url": "https://colab.research.google.com/github/naubergois/b555-labs/blob/main/labs/colabs/EX-058.ipynb"
     },
     {
       "id": "EX-059",
@@ -709,7 +709,7 @@
       "gabarito_curto": "",
       "script": "labs/exercicios/ex_059.py",
       "colab": "labs/colabs/EX-059.ipynb",
-      "colab_url": "https://colab.research.google.com/github/naubergois/redesneurais/blob/main/labs/colabs/EX-059.ipynb"
+      "colab_url": "https://colab.research.google.com/github/naubergois/b555-labs/blob/main/labs/colabs/EX-059.ipynb"
     },
     {
       "id": "EX-060",
@@ -721,7 +721,7 @@
       "gabarito_curto": "vazar futuro",
       "script": "labs/exercicios/ex_060.py",
       "colab": "labs/colabs/EX-060.ipynb",
-      "colab_url": "https://colab.research.google.com/github/naubergois/redesneurais/blob/main/labs/colabs/EX-060.ipynb"
+      "colab_url": "https://colab.research.google.com/github/naubergois/b555-labs/blob/main/labs/colabs/EX-060.ipynb"
     },
     {
       "id": "EX-061",
@@ -733,7 +733,7 @@
       "gabarito_curto": "vazamento / trapaça",
       "script": "labs/exercicios/ex_061.py",
       "colab": "labs/colabs/EX-061.ipynb",
-      "colab_url": "https://colab.research.google.com/github/naubergois/redesneurais/blob/main/labs/colabs/EX-061.ipynb"
+      "colab_url": "https://colab.research.google.com/github/naubergois/b555-labs/blob/main/labs/colabs/EX-061.ipynb"
     },
     {
       "id": "EX-062",
@@ -745,7 +745,7 @@
       "gabarito_curto": "",
       "script": "labs/exercicios/ex_062.py",
       "colab": "labs/colabs/EX-062.ipynb",
-      "colab_url": "https://colab.research.google.com/github/naubergois/redesneurais/blob/main/labs/colabs/EX-062.ipynb"
+      "colab_url": "https://colab.research.google.com/github/naubergois/b555-labs/blob/main/labs/colabs/EX-062.ipynb"
     },
     {
       "id": "EX-063",
@@ -757,7 +757,7 @@
       "gabarito_curto": "estado / memória",
       "script": "labs/exercicios/ex_063.py",
       "colab": "labs/colabs/EX-063.ipynb",
-      "colab_url": "https://colab.research.google.com/github/naubergois/redesneurais/blob/main/labs/colabs/EX-063.ipynb"
+      "colab_url": "https://colab.research.google.com/github/naubergois/b555-labs/blob/main/labs/colabs/EX-063.ipynb"
     },
     {
       "id": "EX-064",
@@ -769,7 +769,7 @@
       "gabarito_curto": "gradiente sumindo",
       "script": "labs/exercicios/ex_064.py",
       "colab": "labs/colabs/EX-064.ipynb",
-      "colab_url": "https://colab.research.google.com/github/naubergois/redesneurais/blob/main/labs/colabs/EX-064.ipynb"
+      "colab_url": "https://colab.research.google.com/github/naubergois/b555-labs/blob/main/labs/colabs/EX-064.ipynb"
     },
     {
       "id": "EX-065",
@@ -781,7 +781,7 @@
       "gabarito_curto": "WhatsApp em ordem",
       "script": "labs/exercicios/ex_065.py",
       "colab": "labs/colabs/EX-065.ipynb",
-      "colab_url": "https://colab.research.google.com/github/naubergois/redesneurais/blob/main/labs/colabs/EX-065.ipynb"
+      "colab_url": "https://colab.research.google.com/github/naubergois/b555-labs/blob/main/labs/colabs/EX-065.ipynb"
     },
     {
       "id": "EX-066",
@@ -793,7 +793,7 @@
       "gabarito_curto": "RMSE",
       "script": "labs/exercicios/ex_066.py",
       "colab": "labs/colabs/EX-066.ipynb",
-      "colab_url": "https://colab.research.google.com/github/naubergois/redesneurais/blob/main/labs/colabs/EX-066.ipynb"
+      "colab_url": "https://colab.research.google.com/github/naubergois/b555-labs/blob/main/labs/colabs/EX-066.ipynb"
     },
     {
       "id": "EX-067",
@@ -805,7 +805,7 @@
       "gabarito_curto": "sem espiar o futuro",
       "script": "labs/exercicios/ex_067.py",
       "colab": "labs/colabs/EX-067.ipynb",
-      "colab_url": "https://colab.research.google.com/github/naubergois/redesneurais/blob/main/labs/colabs/EX-067.ipynb"
+      "colab_url": "https://colab.research.google.com/github/naubergois/b555-labs/blob/main/labs/colabs/EX-067.ipynb"
     },
     {
       "id": "EX-068",
@@ -817,7 +817,7 @@
       "gabarito_curto": "",
       "script": "labs/exercicios/ex_068.py",
       "colab": "labs/colabs/EX-068.ipynb",
-      "colab_url": "https://colab.research.google.com/github/naubergois/redesneurais/blob/main/labs/colabs/EX-068.ipynb"
+      "colab_url": "https://colab.research.google.com/github/naubergois/b555-labs/blob/main/labs/colabs/EX-068.ipynb"
     },
     {
       "id": "EX-069",
@@ -829,7 +829,7 @@
       "gabarito_curto": "",
       "script": "labs/exercicios/ex_069.py",
       "colab": "labs/colabs/EX-069.ipynb",
-      "colab_url": "https://colab.research.google.com/github/naubergois/redesneurais/blob/main/labs/colabs/EX-069.ipynb"
+      "colab_url": "https://colab.research.google.com/github/naubergois/b555-labs/blob/main/labs/colabs/EX-069.ipynb"
     },
     {
       "id": "EX-070",
@@ -841,7 +841,7 @@
       "gabarito_curto": "",
       "script": "labs/exercicios/ex_070.py",
       "colab": "labs/colabs/EX-070.ipynb",
-      "colab_url": "https://colab.research.google.com/github/naubergois/redesneurais/blob/main/labs/colabs/EX-070.ipynb"
+      "colab_url": "https://colab.research.google.com/github/naubergois/b555-labs/blob/main/labs/colabs/EX-070.ipynb"
     },
     {
       "id": "EX-071",
@@ -853,7 +853,7 @@
       "gabarito_curto": "",
       "script": "labs/exercicios/ex_071.py",
       "colab": "labs/colabs/EX-071.ipynb",
-      "colab_url": "https://colab.research.google.com/github/naubergois/redesneurais/blob/main/labs/colabs/EX-071.ipynb"
+      "colab_url": "https://colab.research.google.com/github/naubergois/b555-labs/blob/main/labs/colabs/EX-071.ipynb"
     },
     {
       "id": "EX-072",
@@ -865,7 +865,7 @@
       "gabarito_curto": "",
       "script": "labs/exercicios/ex_072.py",
       "colab": "labs/colabs/EX-072.ipynb",
-      "colab_url": "https://colab.research.google.com/github/naubergois/redesneurais/blob/main/labs/colabs/EX-072.ipynb"
+      "colab_url": "https://colab.research.google.com/github/naubergois/b555-labs/blob/main/labs/colabs/EX-072.ipynb"
     },
     {
       "id": "EX-073",
@@ -877,7 +877,7 @@
       "gabarito_curto": "",
       "script": "labs/exercicios/ex_073.py",
       "colab": "labs/colabs/EX-073.ipynb",
-      "colab_url": "https://colab.research.google.com/github/naubergois/redesneurais/blob/main/labs/colabs/EX-073.ipynb"
+      "colab_url": "https://colab.research.google.com/github/naubergois/b555-labs/blob/main/labs/colabs/EX-073.ipynb"
     },
     {
       "id": "EX-074",
@@ -889,7 +889,7 @@
       "gabarito_curto": "recall / sensibilidade",
       "script": "labs/exercicios/ex_074.py",
       "colab": "labs/colabs/EX-074.ipynb",
-      "colab_url": "https://colab.research.google.com/github/naubergois/redesneurais/blob/main/labs/colabs/EX-074.ipynb"
+      "colab_url": "https://colab.research.google.com/github/naubergois/b555-labs/blob/main/labs/colabs/EX-074.ipynb"
     },
     {
       "id": "EX-075",
@@ -901,7 +901,7 @@
       "gabarito_curto": "vazamento",
       "script": "labs/exercicios/ex_075.py",
       "colab": "labs/colabs/EX-075.ipynb",
-      "colab_url": "https://colab.research.google.com/github/naubergois/redesneurais/blob/main/labs/colabs/EX-075.ipynb"
+      "colab_url": "https://colab.research.google.com/github/naubergois/b555-labs/blob/main/labs/colabs/EX-075.ipynb"
     },
     {
       "id": "EX-076",
@@ -913,7 +913,7 @@
       "gabarito_curto": "reproducibilidade",
       "script": "labs/exercicios/ex_076.py",
       "colab": "labs/colabs/EX-076.ipynb",
-      "colab_url": "https://colab.research.google.com/github/naubergois/redesneurais/blob/main/labs/colabs/EX-076.ipynb"
+      "colab_url": "https://colab.research.google.com/github/naubergois/b555-labs/blob/main/labs/colabs/EX-076.ipynb"
     },
     {
       "id": "EX-077",
@@ -925,7 +925,7 @@
       "gabarito_curto": "receita de bolo",
       "script": "labs/exercicios/ex_077.py",
       "colab": "labs/colabs/EX-077.ipynb",
-      "colab_url": "https://colab.research.google.com/github/naubergois/redesneurais/blob/main/labs/colabs/EX-077.ipynb"
+      "colab_url": "https://colab.research.google.com/github/naubergois/b555-labs/blob/main/labs/colabs/EX-077.ipynb"
     },
     {
       "id": "EX-078",
@@ -937,7 +937,7 @@
       "gabarito_curto": "saber se a NN vale a pena",
       "script": "labs/exercicios/ex_078.py",
       "colab": "labs/colabs/EX-078.ipynb",
-      "colab_url": "https://colab.research.google.com/github/naubergois/redesneurais/blob/main/labs/colabs/EX-078.ipynb"
+      "colab_url": "https://colab.research.google.com/github/naubergois/b555-labs/blob/main/labs/colabs/EX-078.ipynb"
     },
     {
       "id": "EX-079",
@@ -949,7 +949,7 @@
       "gabarito_curto": "privacidade / consentimento",
       "script": "labs/exercicios/ex_079.py",
       "colab": "labs/colabs/EX-079.ipynb",
-      "colab_url": "https://colab.research.google.com/github/naubergois/redesneurais/blob/main/labs/colabs/EX-079.ipynb"
+      "colab_url": "https://colab.research.google.com/github/naubergois/b555-labs/blob/main/labs/colabs/EX-079.ipynb"
     },
     {
       "id": "EX-080",
@@ -961,7 +961,7 @@
       "gabarito_curto": "pipeline + checklist",
       "script": "labs/exercicios/ex_080.py",
       "colab": "labs/colabs/EX-080.ipynb",
-      "colab_url": "https://colab.research.google.com/github/naubergois/redesneurais/blob/main/labs/colabs/EX-080.ipynb"
+      "colab_url": "https://colab.research.google.com/github/naubergois/b555-labs/blob/main/labs/colabs/EX-080.ipynb"
     },
     {
       "id": "EX-081",
@@ -973,7 +973,7 @@
       "gabarito_curto": "",
       "script": "labs/exercicios/ex_081.py",
       "colab": "labs/colabs/EX-081.ipynb",
-      "colab_url": "https://colab.research.google.com/github/naubergois/redesneurais/blob/main/labs/colabs/EX-081.ipynb"
+      "colab_url": "https://colab.research.google.com/github/naubergois/b555-labs/blob/main/labs/colabs/EX-081.ipynb"
     },
     {
       "id": "EX-082",
@@ -985,7 +985,7 @@
       "gabarito_curto": "",
       "script": "labs/exercicios/ex_082.py",
       "colab": "labs/colabs/EX-082.ipynb",
-      "colab_url": "https://colab.research.google.com/github/naubergois/redesneurais/blob/main/labs/colabs/EX-082.ipynb"
+      "colab_url": "https://colab.research.google.com/github/naubergois/b555-labs/blob/main/labs/colabs/EX-082.ipynb"
     },
     {
       "id": "EX-083",
@@ -997,7 +997,7 @@
       "gabarito_curto": "",
       "script": "labs/exercicios/ex_083.py",
       "colab": "labs/colabs/EX-083.ipynb",
-      "colab_url": "https://colab.research.google.com/github/naubergois/redesneurais/blob/main/labs/colabs/EX-083.ipynb"
+      "colab_url": "https://colab.research.google.com/github/naubergois/b555-labs/blob/main/labs/colabs/EX-083.ipynb"
     },
     {
       "id": "EX-084",
@@ -1009,7 +1009,7 @@
       "gabarito_curto": "",
       "script": "labs/exercicios/ex_084.py",
       "colab": "labs/colabs/EX-084.ipynb",
-      "colab_url": "https://colab.research.google.com/github/naubergois/redesneurais/blob/main/labs/colabs/EX-084.ipynb"
+      "colab_url": "https://colab.research.google.com/github/naubergois/b555-labs/blob/main/labs/colabs/EX-084.ipynb"
     },
     {
       "id": "EX-085",
@@ -1021,7 +1021,7 @@
       "gabarito_curto": "",
       "script": "labs/exercicios/ex_085.py",
       "colab": "labs/colabs/EX-085.ipynb",
-      "colab_url": "https://colab.research.google.com/github/naubergois/redesneurais/blob/main/labs/colabs/EX-085.ipynb"
+      "colab_url": "https://colab.research.google.com/github/naubergois/b555-labs/blob/main/labs/colabs/EX-085.ipynb"
     },
     {
       "id": "EX-086",
@@ -1033,7 +1033,7 @@
       "gabarito_curto": "baseline + rede mínima comparáveis",
       "script": "labs/exercicios/ex_086.py",
       "colab": "labs/colabs/EX-086.ipynb",
-      "colab_url": "https://colab.research.google.com/github/naubergois/redesneurais/blob/main/labs/colabs/EX-086.ipynb"
+      "colab_url": "https://colab.research.google.com/github/naubergois/b555-labs/blob/main/labs/colabs/EX-086.ipynb"
     },
     {
       "id": "EX-087",
@@ -1045,7 +1045,7 @@
       "gabarito_curto": "saber o que ajudou",
       "script": "labs/exercicios/ex_087.py",
       "colab": "labs/colabs/EX-087.ipynb",
-      "colab_url": "https://colab.research.google.com/github/naubergois/redesneurais/blob/main/labs/colabs/EX-087.ipynb"
+      "colab_url": "https://colab.research.google.com/github/naubergois/b555-labs/blob/main/labs/colabs/EX-087.ipynb"
     },
     {
       "id": "EX-088",
@@ -1057,7 +1057,7 @@
       "gabarito_curto": "baseline, split, evidência…",
       "script": "labs/exercicios/ex_088.py",
       "colab": "labs/colabs/EX-088.ipynb",
-      "colab_url": "https://colab.research.google.com/github/naubergois/redesneurais/blob/main/labs/colabs/EX-088.ipynb"
+      "colab_url": "https://colab.research.google.com/github/naubergois/b555-labs/blob/main/labs/colabs/EX-088.ipynb"
     },
     {
       "id": "EX-089",
@@ -1069,7 +1069,7 @@
       "gabarito_curto": "não (reproducibilidade)",
       "script": "labs/exercicios/ex_089.py",
       "colab": "labs/colabs/EX-089.ipynb",
-      "colab_url": "https://colab.research.google.com/github/naubergois/redesneurais/blob/main/labs/colabs/EX-089.ipynb"
+      "colab_url": "https://colab.research.google.com/github/naubergois/b555-labs/blob/main/labs/colabs/EX-089.ipynb"
     },
     {
       "id": "EX-090",
@@ -1081,7 +1081,7 @@
       "gabarito_curto": "menor móvel útil",
       "script": "labs/exercicios/ex_090.py",
       "colab": "labs/colabs/EX-090.ipynb",
-      "colab_url": "https://colab.research.google.com/github/naubergois/redesneurais/blob/main/labs/colabs/EX-090.ipynb"
+      "colab_url": "https://colab.research.google.com/github/naubergois/b555-labs/blob/main/labs/colabs/EX-090.ipynb"
     },
     {
       "id": "EX-091",
@@ -1093,7 +1093,7 @@
       "gabarito_curto": "",
       "script": "labs/exercicios/ex_091.py",
       "colab": "labs/colabs/EX-091.ipynb",
-      "colab_url": "https://colab.research.google.com/github/naubergois/redesneurais/blob/main/labs/colabs/EX-091.ipynb"
+      "colab_url": "https://colab.research.google.com/github/naubergois/b555-labs/blob/main/labs/colabs/EX-091.ipynb"
     },
     {
       "id": "EX-092",
@@ -1105,7 +1105,7 @@
       "gabarito_curto": "",
       "script": "labs/exercicios/ex_092.py",
       "colab": "labs/colabs/EX-092.ipynb",
-      "colab_url": "https://colab.research.google.com/github/naubergois/redesneurais/blob/main/labs/colabs/EX-092.ipynb"
+      "colab_url": "https://colab.research.google.com/github/naubergois/b555-labs/blob/main/labs/colabs/EX-092.ipynb"
     },
     {
       "id": "EX-093",
@@ -1117,7 +1117,7 @@
       "gabarito_curto": "",
       "script": "labs/exercicios/ex_093.py",
       "colab": "labs/colabs/EX-093.ipynb",
-      "colab_url": "https://colab.research.google.com/github/naubergois/redesneurais/blob/main/labs/colabs/EX-093.ipynb"
+      "colab_url": "https://colab.research.google.com/github/naubergois/b555-labs/blob/main/labs/colabs/EX-093.ipynb"
     },
     {
       "id": "EX-094",
@@ -1129,7 +1129,7 @@
       "gabarito_curto": "sim",
       "script": "labs/exercicios/ex_094.py",
       "colab": "labs/colabs/EX-094.ipynb",
-      "colab_url": "https://colab.research.google.com/github/naubergois/redesneurais/blob/main/labs/colabs/EX-094.ipynb"
+      "colab_url": "https://colab.research.google.com/github/naubergois/b555-labs/blob/main/labs/colabs/EX-094.ipynb"
     },
     {
       "id": "EX-095",
@@ -1141,7 +1141,7 @@
       "gabarito_curto": "",
       "script": "labs/exercicios/ex_095.py",
       "colab": "labs/colabs/EX-095.ipynb",
-      "colab_url": "https://colab.research.google.com/github/naubergois/redesneurais/blob/main/labs/colabs/EX-095.ipynb"
+      "colab_url": "https://colab.research.google.com/github/naubergois/b555-labs/blob/main/labs/colabs/EX-095.ipynb"
     },
     {
       "id": "EX-096",
@@ -1153,7 +1153,7 @@
       "gabarito_curto": "",
       "script": "labs/exercicios/ex_096.py",
       "colab": "labs/colabs/EX-096.ipynb",
-      "colab_url": "https://colab.research.google.com/github/naubergois/redesneurais/blob/main/labs/colabs/EX-096.ipynb"
+      "colab_url": "https://colab.research.google.com/github/naubergois/b555-labs/blob/main/labs/colabs/EX-096.ipynb"
     },
     {
       "id": "EX-097",
@@ -1165,7 +1165,7 @@
       "gabarito_curto": "história no elevador",
       "script": "labs/exercicios/ex_097.py",
       "colab": "labs/colabs/EX-097.ipynb",
-      "colab_url": "https://colab.research.google.com/github/naubergois/redesneurais/blob/main/labs/colabs/EX-097.ipynb"
+      "colab_url": "https://colab.research.google.com/github/naubergois/b555-labs/blob/main/labs/colabs/EX-097.ipynb"
     },
     {
       "id": "EX-098",
@@ -1177,7 +1177,7 @@
       "gabarito_curto": "≥75%",
       "script": "labs/exercicios/ex_098.py",
       "colab": "labs/colabs/EX-098.ipynb",
-      "colab_url": "https://colab.research.google.com/github/naubergois/redesneurais/blob/main/labs/colabs/EX-098.ipynb"
+      "colab_url": "https://colab.research.google.com/github/naubergois/b555-labs/blob/main/labs/colabs/EX-098.ipynb"
     },
     {
       "id": "EX-099",
@@ -1189,7 +1189,7 @@
       "gabarito_curto": "≥7",
       "script": "labs/exercicios/ex_099.py",
       "colab": "labs/colabs/EX-099.ipynb",
-      "colab_url": "https://colab.research.google.com/github/naubergois/redesneurais/blob/main/labs/colabs/EX-099.ipynb"
+      "colab_url": "https://colab.research.google.com/github/naubergois/b555-labs/blob/main/labs/colabs/EX-099.ipynb"
     },
     {
       "id": "EX-100",
@@ -1201,7 +1201,7 @@
       "gabarito_curto": "não",
       "script": "labs/exercicios/ex_100.py",
       "colab": "labs/colabs/EX-100.ipynb",
-      "colab_url": "https://colab.research.google.com/github/naubergois/redesneurais/blob/main/labs/colabs/EX-100.ipynb"
+      "colab_url": "https://colab.research.google.com/github/naubergois/b555-labs/blob/main/labs/colabs/EX-100.ipynb"
     },
     {
       "id": "EX-101",
@@ -1213,7 +1213,7 @@
       "gabarito_curto": "presente / útil",
       "script": "labs/exercicios/ex_101.py",
       "colab": "labs/colabs/EX-101.ipynb",
-      "colab_url": "https://colab.research.google.com/github/naubergois/redesneurais/blob/main/labs/colabs/EX-101.ipynb"
+      "colab_url": "https://colab.research.google.com/github/naubergois/b555-labs/blob/main/labs/colabs/EX-101.ipynb"
     },
     {
       "id": "EX-102",
@@ -1225,7 +1225,7 @@
       "gabarito_curto": "8–10",
       "script": "labs/exercicios/ex_102.py",
       "colab": "labs/colabs/EX-102.ipynb",
-      "colab_url": "https://colab.research.google.com/github/naubergois/redesneurais/blob/main/labs/colabs/EX-102.ipynb"
+      "colab_url": "https://colab.research.google.com/github/naubergois/b555-labs/blob/main/labs/colabs/EX-102.ipynb"
     },
     {
       "id": "EX-103",
@@ -1237,7 +1237,7 @@
       "gabarito_curto": "a rede calcula; nós decidimos",
       "script": "labs/exercicios/ex_103.py",
       "colab": "labs/colabs/EX-103.ipynb",
-      "colab_url": "https://colab.research.google.com/github/naubergois/redesneurais/blob/main/labs/colabs/EX-103.ipynb"
+      "colab_url": "https://colab.research.google.com/github/naubergois/b555-labs/blob/main/labs/colabs/EX-103.ipynb"
     },
     {
       "id": "EX-104",
@@ -1249,7 +1249,7 @@
       "gabarito_curto": "código+README+deck",
       "script": "labs/exercicios/ex_104.py",
       "colab": "labs/colabs/EX-104.ipynb",
-      "colab_url": "https://colab.research.google.com/github/naubergois/redesneurais/blob/main/labs/colabs/EX-104.ipynb"
+      "colab_url": "https://colab.research.google.com/github/naubergois/b555-labs/blob/main/labs/colabs/EX-104.ipynb"
     }
   ],
   "total_colabs": 104,
